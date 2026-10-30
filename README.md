@@ -2,6 +2,7 @@
 A python-based machine temperature monitoring and diagnostic simulator.
 
 
+
 ThermoGuard AI
 
 What it does
@@ -15,6 +16,8 @@ Install Python 3, then run:
 "python thermoguard_ai.py"
 
 You can also run it using Pydroid 3 on Android.
+
+
 
 Sample output
 
@@ -34,13 +37,18 @@ Recommendation: Critical temperature detected. Immediate inspection is recommend
 
 Monitoring report saved to thermoguard_history.txt
 
+
+
 My own twist
 
 My own twist is the combination of temperature trend detection, an illustrative machine health score, diagnostic recommendations, and automatic saving of timestamped monitoring reports.
 
+
 What I learned
 
 I learned how to use Python functions, loops, conditional statements, lists, input validation, and file handling to solve a basic engineering monitoring problem.
+
+
 
 Author
 
