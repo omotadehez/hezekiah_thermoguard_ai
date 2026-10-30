@@ -2,9 +2,12 @@ ThermoGuard AI
 
 A Python-based machine temperature monitoring and diagnostic simulator.
 
+
+
 What it does
 
 ThermoGuard AI is a Python-based machine temperature monitoring and diagnostic simulator. It collects five temperature readings, analyses the highest, lowest, and average values, detects temperature trends, and provides a status and recommendation based on predefined thresholds.
+
 
 How to run it
 
@@ -32,6 +35,7 @@ Recommendation: Critical temperature detected. Immediate inspection is recommend
 
 Monitoring report saved to thermoguard_history.txt
 
+
 My own twist
 
 My own twist is the combination of temperature trend detection, an illustrative machine health score, diagnostic recommendations, and automatic saving of timestamped monitoring reports.
@@ -39,6 +43,7 @@ My own twist is the combination of temperature trend detection, an illustrative 
 What I learned
 
 I learned how to use Python functions, loops, conditional statements, lists, input validation, and file handling to solve a basic engineering monitoring problem.
+
 
 Author
 
